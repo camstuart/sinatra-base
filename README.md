@@ -4,7 +4,7 @@ Base Sinatra app layout for use in ruby, or jruby with dependency-free JAR compi
 
 #### General:
 
-Sinatra is great for quick and small web apps, and even better if you want to have users run the the app on their own workstation under Java.
+Sinatra is great for quick and small web apps, and even better if you want to have users run the app on their own workstation under Java.
 <br/>
 Use this project to get up and running quickly with:
 
